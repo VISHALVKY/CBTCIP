@@ -23,15 +23,11 @@ To get the ToDo App up and running on your local machine, follow these steps:
     ```sh
     git clone https://github.com/yourusername/my-react-projects.git
     ```
-2. Navigate to the ToDo App directory:
-    ```sh
-    cd my-react-projects/todo-app
-    ```
-3. Install the dependencies:
+2. Install the dependencies:
     ```sh
     npm install
     ```
-4. Start the development server:
+3. Start the development server:
     ```sh
     npm start
     ```
@@ -59,19 +55,15 @@ A weather application that fetches and displays weather information for a given 
 
 To get the Weather App up and running on your local machine, follow these steps:
 
-1. Navigate to the Weather App directory:
+1. Clone the repository:
     ```sh
-    cd my-react-projects/weather-app
+    git clone https://github.com/yourusername/my-react-projects.git
     ```
 2. Install the dependencies:
     ```sh
     npm install
     ```
-3. Get your API key from [OpenWeatherMap](https://openweathermap.org/) and add it to your `.env` file:
-    ```sh
-    REACT_APP_WEATHER_API_KEY=your_api_key_here
-    ```
-4. Start the development server:
+3. Start the development server:
     ```sh
     npm start
     ```
