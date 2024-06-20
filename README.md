@@ -1,7 +1,9 @@
 # My React Projects
 
-Welcome to my GitHub repository containing two React projects: a ToDo App and a Weather App. Both applications are built with React and demonstrate key concepts and functionalities of the library.
-These projects were developed as part of my internship tasks at CipherByte Technologies.
+- Welcome to my GitHub repository containing two React projects:
+- **a ToDo App and a Weather App.**
+- Both applications are built with React and demonstrate key concepts and functionalities of the library.
+- These projects were developed as part of my internship tasks at CipherByte Technologies.
 
 ## ToDo App
 
